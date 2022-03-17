@@ -14,6 +14,8 @@ public class Main {
     String login = "roMarkov";
     String password = "123qaz!@#QAZ";
 
+
+
     @BeforeAll
     public static void setupSettings() {
         WebDriver driver;
